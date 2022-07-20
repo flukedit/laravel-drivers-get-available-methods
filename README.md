@@ -1,2 +1,2 @@
-# laravel-drivers-get-available-methods
+# Laravel Manager - Get available drivers
 Simple manager extension to retrieve all the available drivers
