@@ -1,4 +1,4 @@
-# Laravel Manager - Get available drivers
+# Laravel Manager Extension - Get available drivers
 This is a simple manager extension to retrieve all the available drivers for a particular manager class.
 
 ## How to use
